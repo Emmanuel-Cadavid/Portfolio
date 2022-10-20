@@ -1163,6 +1163,12 @@ section {
 /*--------------------------------------------------------------
 # Contact Me
 --------------------------------------------------------------*/
+.lastInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .contact .info-box {
   color: #444444;
   text-align: center;
