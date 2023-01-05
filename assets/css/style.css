@@ -950,6 +950,11 @@ section {
   font-weight: 600;
   color: #fff;
   margin-bottom: 0px;
+  transition: 0.3s;
+}
+
+.portfolio .portfolio-item .portfolio-info h4:hover {
+  color: #ffc041;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
